@@ -1,2 +1,2 @@
 ## GoPerf
-A simple execution time analyzer in golang
+A simple execution time and memory usage analyzer in Golang
